@@ -1,4 +1,4 @@
-ID,Company_name,Year,Quarter,Month_name,Day,Date,Revenue,state,Zip_code,Month
+id,Company_name,Year,Quarter,Month_name,Day,Date,Revenue,state,Zip_code,Month
 1,COMCAST CORP,2018,Qtr 4,December,31,2018-12-31,94507000000,PA,19103-2838,12
 1,COMCAST CORP,2019,Qtr 1,March,31,2019-03-31,26859000000,PA,19103-2838,3
 1,COMCAST CORP,2019,Qtr 2,June,30,2019-06-30,26858000000,PA,19103-2838,6
